@@ -1,4 +1,7 @@
 # Ducky
+
+![Ducky](./static/logo.svg)
+
 [![Gitter](https://badges.gitter.im/ducky-calculator/community.svg)](https://gitter.im/ducky-calculator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 > Proyecto ejemplo para enseñar las diferentes partes de contribuir al OSS.
